@@ -32,4 +32,4 @@ Web Developer and Android
 
 <a href="http://www.github.com/huy1235588"><img src="https://github-readme-stats.vercel.app/api?username=huy1235588&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="huy1235588's GitHub stats" /></a>
 
-<a href="https://github.com/huy1235588" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huy1235588&layout=compact&theme=radical&langs_count=8&hide=html,css" alt="Top Languages" /></a>
+<a href="https://github.com/huy1235588" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huy1235588&layout=compact&theme=radical&langs_count=8&hide=html,css,javascript" alt="Top Languages" /></a>
