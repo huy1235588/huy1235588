@@ -58,7 +58,7 @@
 
 ### Projects
 - [E-commerce Website](https://github.com/huy1235588/ECommerce): Built with React, Node.js, and MongoDB.
-- [Manager App](https://github.com/huy1235588/restaurant-management): A productivity tool built using Vue.js and SQL Server.
+- [Manager App](https://github.com/huy1235588/restaurant-management): A productivity tool built using NextJS, and MySql.
 
 ---
 
